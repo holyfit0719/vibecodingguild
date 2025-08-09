@@ -1,0 +1,17 @@
+{
+  "name": "vibecodingguild",
+  "version": "1.0.0",
+  "description": "다오랩 바이브코딩길드 - 자발적 DAO로 움직이는 실험 길드",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": [
+    "dao",
+    "guild",
+    "coding",
+    "hackathon"
+  ],
+  "author": "VibeCoding Guild",
+  "license": "MIT"
+}
